@@ -1,0 +1,7 @@
+ipAdrress=10.169.92.194
+port=13000
+error=Error: The application got into an error
+warn=Warning: The application got into an unexpected issue
+fatal=Fatal: Severe error that might cause the application to terminate
+info = INFO: The application started
+debug = DEBUG: An exception has been thrown

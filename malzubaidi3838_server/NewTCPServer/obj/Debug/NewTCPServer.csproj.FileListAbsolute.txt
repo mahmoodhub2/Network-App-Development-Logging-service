@@ -1,0 +1,26 @@
+C:\Users\Norbert\Desktop\NewTCPServer\bin\Debug\NewTCPServer.exe.config
+C:\Users\Norbert\Desktop\NewTCPServer\bin\Debug\NewTCPServer.exe
+C:\Users\Norbert\Desktop\NewTCPServer\bin\Debug\NewTCPServer.pdb
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.csproj.AssemblyReference.cache
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.ProjectInstaller.resources
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.csproj.GenerateResource.cache
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.exe
+C:\Users\Norbert\Desktop\NewTCPServer\obj\Debug\NewTCPServer.pdb
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\bin\Debug\NewTCPServer.exe.config
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\bin\Debug\NewTCPServer.exe
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\bin\Debug\NewTCPServer.pdb
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.ProjectInstaller.resources
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.csproj.GenerateResource.cache
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.exe
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.pdb
+C:\Users\ma hmood\Downloads\W12-Lecture\NewTCPServer\obj\Debug\NewTCPServer.csproj.AssemblyReference.cache
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\bin\Debug\NewTCPServer.exe.config
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\bin\Debug\NewTCPServer.exe
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\bin\Debug\NewTCPServer.pdb
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\obj\Debug\NewTCPServer.ProjectInstaller.resources
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\obj\Debug\NewTCPServer.csproj.GenerateResource.cache
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\obj\Debug\NewTCPServer.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\obj\Debug\NewTCPServer.exe
+C:\Users\ma hmood\source\repos\Mahmood-Nawriz-service\NewTCPServer\obj\Debug\NewTCPServer.pdb
